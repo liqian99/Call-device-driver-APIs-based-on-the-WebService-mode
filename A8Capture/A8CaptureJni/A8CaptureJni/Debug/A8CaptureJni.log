@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  A8CaptureJni.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Debug\A8CaptureJni.lib and object D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Debug\A8CaptureJni.exp
+  A8CaptureJni.vcxproj -> D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Debug\A8CaptureJni.dll
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

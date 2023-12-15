@@ -1,0 +1,11 @@
+﻿  A8CaptureDll.cpp
+d:\work\web\webservice\a8capture\a8capturejni\a8capturejni\a8capturedll.cpp(33): warning C4154: deletion of an array expression; conversion to pointer supplied
+     Creating library D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Release\A8CaptureJni.lib and object D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Release\A8CaptureJni.exp
+  Generating code
+  2 of 30 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  A8CaptureJni.vcxproj -> D:\Work\Web\WebService\A8Capture\A8CaptureJni\A8CaptureJni\Release\A8CaptureJni.dll
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
